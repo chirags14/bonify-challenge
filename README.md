@@ -1,6 +1,6 @@
 # bonify-challenge
 
-##Question 1 (Level 1) (10 min)
+###Question 1 (Level 1) (10 min)
 Assume a blacklist IP monitoring system, where any user trying to access the system,
 is checked against a blacklist of IPs, and the connection is dropped if the IP was
 found to be blacklisted.
@@ -20,7 +20,7 @@ Steps to implement solution would be in below steps.
 
 =================================================================================================================
 
-##Question 2 (Level 1) (20 min)
+###Question 2 (Level 1) (20 min)
 Assume a database of categories, and keywords associated with a category, with an
 N-to-N relation between them. You need to analyze a file attachment (such
 as .pdf, .doc, .xml), and find the most fitting category for this file, based on the file's
@@ -38,7 +38,7 @@ For example, while iterating file content check each sentence against given cate
 
 =================================================================================================================
 
-##Question 3 (Level 2) (1 hour)
+###Question 3 (Level 2) (1 hour)
 You have following code part below which consist of several “if else” statements. You
 need to optimize the code to support different data types in the future without
 changing it one more time.
@@ -62,7 +62,7 @@ https://github.com/chirags14/bonify-type-identifier.git
 
 =================================================================================================================
 
-##Question 5 (Level 3) (2 hours)
+###Question 5 (Level 3) (2 hours)
 Given the following content of a csv file:
 name;bank_identifier
 Postbank;10010010
